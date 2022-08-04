@@ -2,6 +2,8 @@
 
 NUI input system for QBCore
 
+My mapping discord https://discord.gg/8SUJN7JXk2
+
 This is a modified version of **[NH Keyboard](https://forum.cfx.re/t/no-longer-supported-standalone-nerohiro-s-keyboard-dynamic-nui-keyboard-input/2506326)** by **[NeroHiro](https://github.com/nerohiro)**
 
 ![PREVIEW](https://user-images.githubusercontent.com/66903577/180806089-c7292e22-3bab-4766-9374-da29897651fd.png)
